@@ -44,8 +44,8 @@ pip install pyspark matplotlib pandas
 ## Usage
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/goushaa/US-Car-Accidents-Big-Data.git
+   cd US-Car-Accidents-Big-Data
    ```
 
 2. **Set Up the Environment**:
